@@ -1,1 +1,1 @@
-# M-o-rob-tica-movida-com-vis-o-computacional
+# Mão-robótica-movida-com-visão-computacional
