@@ -43,3 +43,7 @@ pip install -r requirements.txt
 ### 4. Monte o circuito de acordo com o codigo .cpp e envie ao arduino
 ### 5. Verifique as informações de conexão entre os arquivos.py e .cpp
 ### 6. Inicie o arquivo Python
+
+## Autores:
+- Bruno França Guimarâes
+- Felype Sioma de Jesus
